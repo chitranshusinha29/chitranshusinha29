@@ -1,67 +1,73 @@
-<h1 align="center">Hi 👋 I'm Chitranshu</h1>
-<h3 align="center">Enthusiastic Software Engineer • AI/ML Explorer • Tech Learner</h3>
+<h1 align="center">Hi 👋, I'm Chitranshu</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Scalable+Systems;Exploring+AI+%7C+Data+%7C+Cloud;Always+Learning+%26+Shipping" />
+</p>
 
 ---
 
-I’m deeply curious about how intelligent systems work and how software can solve real-world problems.
+## 🚀 About Me
 
-Currently exploring the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Development**, I enjoy building practical systems that are not just functional, but meaningful.
+I’m a Software Engineer focused on building reliable, scalable, and meaningful systems.
 
-I like asking questions such as:
-- How can AI improve healthcare accessibility?
-- How can software systems scale efficiently?
-- How can user experience and performance coexist?
+I enjoy working across backend logic, intelligent systems, and full-stack development — turning ideas into working products. While my foundation is in software engineering, I actively explore Artificial Intelligence, Machine Learning, and Data Engineering to understand how intelligent systems can enhance real-world applications.
 
-My journey so far has taken me through:
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Backend & Web Application Development
-- Cloud fundamentals & system thinking
-
-I enjoy experimenting, optimizing models, improving performance, and turning ideas into working prototypes.
+I’m curious about:
+- Designing scalable architectures  
+- Writing clean, maintainable code  
+- Optimizing performance  
+- Integrating AI into production-ready systems  
 
 ---
 
-## 🛠 Tech I Work With
+## 🛠 Tech Stack
 
-**Languages**  
-Python • Java • C++ • SQL • JavaScript • PHP  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,sql" />
+</p>
 
-**AI / ML**  
-TensorFlow • Keras • Scikit-learn • Pandas • NumPy • OpenCV  
+### ⚙️ Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,docker" />
+</p>
 
-**Development & Tools**  
-HTML • CSS • MySQL • Git • GitHub • Docker • Bootstrap  
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced AI architectures  
-- Scalable backend systems  
-- Cloud-native development  
-- System design fundamentals  
+### 🤖 Exploring AI & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 🌱 Currently Working On
+
+- Improving system design fundamentals  
+- Building scalable backend applications  
+- Strengthening problem-solving skills  
+- Exploring AI integration into software systems  
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chitranshusinha29&show_icons=true&theme=default" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chitranshusinha29&theme=default" />
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/chitranshusinha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
----
-
-## 🤝 Let’s Connect
-
-📧 schitranshu49@gmail.com  
-💼 https://www.linkedin.com/in/chitranshusinha/
+📧 chitranshusinhaccds@gmail.com  
 
 ---
 
-_Always building. Always learning._
+<p align="center">
+  <i>Building consistently. Learning continuously.</i>
+</p>
