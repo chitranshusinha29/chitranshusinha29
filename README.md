@@ -23,8 +23,14 @@ I’m curious about:
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,sql" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=sql" title="SQL" />
 </p>
 
 ### ⚙️ Development
@@ -62,7 +68,11 @@ I’m curious about:
   </a>
 </p>
 
-📧 chitranshusinhaccds@gmail.com  
+<p>
+  <a href="mailto:chitranshusinhaccds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p> 
 
 ---
 
