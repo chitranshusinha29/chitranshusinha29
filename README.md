@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitranshu</h1>
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=650&lines=Software+Engineer;Designing+Scalable+Systems;Exploring+AI+%7C+Data+%7C+Cloud" />
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+Scalable+Systems;Exploring+AI+%7C+Data+%7C+Cloud;Always+Learning+%26+Improving" />
-</p>
 
 <br/>
 
