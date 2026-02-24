@@ -51,10 +51,8 @@ I’m curious about:
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitranshusinha29&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chitranshusinha29&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
