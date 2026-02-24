@@ -57,7 +57,7 @@ I’m curious about:
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitranshusinha29&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chitranshusinha29&theme=default" />
 </p>
 
 ## 🤝 Connect With Me
