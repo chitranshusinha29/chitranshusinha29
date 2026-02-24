@@ -96,11 +96,3 @@ I care about:
   <i>Building consistently. Learning continuously.</i>
 </p>
 
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github.com/chitranshusinha29/chitranshusinha29/blob/output/github-contribution-grid-snake.svg" />
-</p>
