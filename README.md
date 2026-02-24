@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitranshu</h1>
-
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=650&lines=Software+Engineer;Designing+Scalable+Systems;Exploring+AI+%7C+Data+%7C+Cloud" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+Scalable+Systems;Exploring+AI+%7C+Data+%7C+Cloud;Always+Learning+%26+Improving" />
 </p>
@@ -21,7 +21,7 @@ I care about:
 
 <br/>
 
-# 💻 Languages
+<h2 align="center">💻 Languages</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python"/>
@@ -63,7 +63,7 @@ I care about:
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
   <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn"/>
-  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
 </p>
 
